@@ -30,7 +30,7 @@
 }
 
 .card{
-    max-width: 40%;
+    max-width: 80%;
     border: 1px solid white;
     background-color: var(--bg-secondary);
     color: var(--txt-secondary);
