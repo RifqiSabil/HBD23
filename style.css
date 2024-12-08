@@ -54,6 +54,11 @@
     font-size: 2em;
 }
 
+.birthday-icon {
+            font-size:3em; /* Adjust size */
+            color: #ff69b4; /* Hot pink color */
+        }
+
 .desc{
     font-size: .9em;
 }
